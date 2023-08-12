@@ -1,0 +1,16 @@
+# A demo cat tree
+Food
+	Hot
+		Soup
+		Steak
+	Cold
+		Sandwich
+		Ice Cream
+		
+Drinks
+	Hot
+		Coffee
+		Tea # could be cold, though
+	Cold
+		Beer
+		Soda
